@@ -23,7 +23,7 @@ When sending the /start command, a welcome message is sent to the user, a dialog
 
 2)message with text
 
-when sending a text message, the program tries to find the history of a particular user's conversation with ChatGPT.
+When sending a text message, the program tries to find the history of a particular user's conversation with ChatGPT.
 If one is found, the user's request is added to it and a response from ChatGPT is created.
 If the story was not found, then a new story is created, a user request is added to it and a response from ChatGPT is created.
 After creating a response, it is sent to the user and logs are recorded.
