@@ -16,6 +16,7 @@ The following libraries are used in the work of this bot:
 For the OpenAI library to work, it is required that it works in your country, otherwise use a VPN or proxy.
 
 Bot commands: 
+
 1)/start 
 
 When sending the /start command, a welcome message is sent to the user, a dialog history is created, and the behavior of GPT is set as a "useful assistant".
