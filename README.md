@@ -1,13 +1,13 @@
 # GPT 3.5 bot for Telegram
 
-#Introduction
+# Introduction
 I wrote this bot because it was inconvenient for me to open GPT in my phone.
 Things that I liked about this program: 
 1) Works fast unlike third-party telegram bots 
 2) full functionality of GPT 3.5 
 3) Records logs
 
-#Description
+# Description
 The following libraries are used in the work of this bot:
 1) python-telegram-bot
 2) openai
@@ -24,10 +24,10 @@ If one is found, the user's request is added to it and a response from ChatGPT i
 If the story was not found, then a new story is created, a user request is added to it and a response from ChatGPT is created.
 After creating a response, it is sent to the user and logs are recorded.
 
-#Resources
+# Resources
 1) python-telegram-bot - https://github.com/python-telegram-bot/python-telegram-bot
 2) openai - https://github.com/openai/openai-python
 3) logging - https://docs.python.org/3/library/logging.html
 
-#Getting help
+# Getting help
 If the resources mentioned above do not answer your questions, write me an email at ilya-vor-github@mail.ru
